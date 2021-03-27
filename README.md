@@ -1,6 +1,5 @@
 # Hi there 👋
 
--  I’m currently working on a developer community app!
 -  I’m currently learning rust!
 -  Ask me about Pandas, Numpy and Python developement!
 -  How to reach me: samrath.2757@gmail.com
