@@ -1,6 +1,6 @@
 # Hi there 👋
 
--  I’m currently learning rust!
+-  I’m currently going deeper into flask
 -  Ask me about Pandas, Numpy and Python developement!
 -  How to reach me: samrath.2757@gmail.com
 -  I'm 14
