@@ -20,9 +20,3 @@
 <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas">
 <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy">
 </p>
-
-## <div align="center">Github Stats</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrath2007&theme=radical&hide_title=true">
-</div>
