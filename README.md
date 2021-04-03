@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask">
 <img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express">
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
-<img src="https://img.shields.io/badge/-C-black?style=flat-square">
 <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas">
 <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy">
 </p>
