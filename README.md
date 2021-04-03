@@ -1,6 +1,6 @@
 # Hi there 👋
 
--  I’m currently learn javascript and the MERN stack
+-  I’m currently learning javascript and the MERN stack
 -  Ask me about Pandas, Numpy and Python developement!
 -  How to reach me: samrath.2757@gmail.com
 -  I'm 14
