@@ -5,7 +5,7 @@
 -  How to reach me: samrath.2757@gmail.com
 -  I'm 14
 
-## <div align="center">⚡ Technologies</div>
+## <div align="center">⚡ Technologies and Languages</div>
   
 <p align="center">
 <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
