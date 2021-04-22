@@ -8,6 +8,9 @@
 ## <div align="center">⚡ Technologies and Languages</div>
   
 <p align="center">
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab">
 <img src="https://img.shields.io/badge/-python-black?style=flat-square&logo=python">
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5">
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
