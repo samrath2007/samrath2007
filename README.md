@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">
 <img src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask">
-<img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express">
+<img src="https://img.shields.io/badge/-threading-black?style=flat-square&logo=threading">
+<img src="https://img.shields.io/badge/-concurrent-futures-black?style=flat-square&logo=concurrent-futures">
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus">
 <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas">
 <img src="https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy">
