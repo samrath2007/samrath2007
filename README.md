@@ -5,8 +5,8 @@
 -  How to reach me: samrath.2757@gmail.com
 -  I'm 14
 -  Contributor to:
-  -  [electic](http://github.com/electric-package-manager/electric)
-  -  [covisource](http://github.com/covisource/covisource-api)
+  - [electic](http://github.com/electric-package-manager/electric)
+  - [covisource](http://github.com/covisource/covisource-api)
 
 ## <div align="center">⚡ Technologies and Languages</div>
   
