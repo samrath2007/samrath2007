@@ -1,7 +1,6 @@
 # Hi there 👋
 
 *  I’m currently learning java
-*  Ask me about Pandas, Numpy and Python developement!
 *  How to reach me: samrath.2757@gmail.com
 *  I'm 14
 *  Contributor to:
