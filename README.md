@@ -3,6 +3,7 @@
 *  I’m currently learning java
 *  How to reach me: samrath.2757@gmail.com
 *  I'm 14!
+*  I am currently working on [NotesCluster](https://github.com/NotesCluster), a notes sharing app for students
 *  Contributor to:
     * [electic](http://github.com/electric-package-manager/electric)
     * [covisource](http://github.com/covisource/covisource-api)
