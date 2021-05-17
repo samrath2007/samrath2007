@@ -1,10 +1,10 @@
 # Hi there 👋
 
-*  I’m currently learning java
-*  How to reach me: samrath.2757@gmail.com
-*  I'm 14!
-*  I am currently working on [EnCluster](https://github.com/EnCluster), a notes sharing app for students
-*  Contributor to:
+⚡️  I’m currently learning TS
+✉️  How to reach me: samrath.2757@gmail.com
+🌱  I'm 14!
+🔥  I'm currently working on [EnCluster](https://github.com/EnCluster), a notes sharing app for students
+✨  Contributor to:
     * [electic](http://github.com/electric-package-manager/electric)
     * [covisource](http://github.com/covisource/covisource-api)
 
