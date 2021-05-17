@@ -6,8 +6,6 @@
 *  Contributor to:<br>
     * [electic](http://github.com/electric-package-manager/electric)<br>
     * [covisource](http://github.com/covisource/covisource-api)<br>
-
-## <div align="center">⚡ Technologies and Languages</div>
   
 
 <p align="center">
@@ -38,18 +36,3 @@
   
 <img src="https://github-readme-stats-codestackr.vercel.app/api?username=samrath2007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 
-<br>
-<h2 align="center"> 💻 Wakatime Stats </h2>
-
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=samrath2007&layout=compact&theme=synthwave">
-
-<br>
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/samrath2008?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<br>
