@@ -15,7 +15,6 @@
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src 
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=webpack&sort= > <img width ='32px' src 
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
