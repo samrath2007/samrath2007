@@ -7,7 +7,7 @@
 *  Contributor to:<br>
     * [electic](http://github.com/electric-package-manager/electric)<br>
     * [covisource](http://github.com/covisource/covisource-api)<br>
-<hr>
+
 ## <div align="center">⚡ Technologies and Languages</div>
   
 
@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++">
 
 </p>
-<hr>
+
 <h2 align="center"> 😺 Github Stats </h2>
 
 <p align="center">
