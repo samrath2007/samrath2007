@@ -45,3 +45,10 @@
 <img src="https://github-readme-stats-codestackr.vercel.app/api?username=samrath2007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 
 <br>
+<h2 align="center"> 💻 Wakatime Stats </h2>
+
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=samrath2007&layuout=compact&theme=synthwave">
+
+<br>
