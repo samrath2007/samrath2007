@@ -1,12 +1,12 @@
 # Hi there 👋
 
-⚡️  I’m currently learning TS
-✉️  How to reach me: samrath.2757@gmail.com
-🌱  I'm 14!
-🔥  I'm currently working on [EnCluster](https://github.com/EnCluster), a notes sharing app for students
-✨  Contributor to:
-    * [electic](http://github.com/electric-package-manager/electric)
-    * [covisource](http://github.com/covisource/covisource-api)
+⚡️  I’m currently learning TS<br>
+✉️  How to reach me: samrath.2757@gmail.com<br>
+🌱  I'm 14!<br>
+🔥  I'm currently working on [EnCluster](https://github.com/EnCluster), a notes sharing app for students<br>
+✨  Contributor to:<br>
+    * [electic](http://github.com/electric-package-manager/electric)<br>
+    * [covisource](http://github.com/covisource/covisource-api)<br>
 
 ## <div align="center">⚡ Technologies and Languages</div>
   
