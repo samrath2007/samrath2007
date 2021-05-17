@@ -49,6 +49,6 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=samrath2007&layuout=compact&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=samrath2007&layout=compact&theme=synthwave">
 
 <br>
