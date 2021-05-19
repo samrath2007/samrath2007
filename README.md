@@ -1,8 +1,7 @@
 # Hi 👋, I'm Samrath!
-⚡️  I’m currently S<br>
+⚡️  I'm currently working on [EnCluster](https://github.com/EnCluster), a notes sharing app for students<br>
 ✉️  How to reach me: samrath.2757@gmail.com<br>
 🌱  I'm 14!<br>
-🔥  I'm currently working on [EnCluster](https://github.com/EnCluster), a notes sharing app for students<br>
 *  Contributor to:<br>
     * [electic](http://github.com/electric-package-manager/electric)<br>
     * [covisource](http://github.com/covisource/covisource-api)<br>
