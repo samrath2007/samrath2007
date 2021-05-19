@@ -3,7 +3,7 @@
 ✉️  How to reach me: samrath.2757@gmail.com<br>
 🌱  I'm 14!<br>
 *  Contributor to:<br>
-    * [electic](http://github.com/electric-package-manager/electric)<br>
+    * [electric](http://github.com/electric-package-manager/electric)<br>
     * [covisource](http://github.com/covisource/covisource-api)<br>
   
 
