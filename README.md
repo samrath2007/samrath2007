@@ -31,5 +31,5 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats-codestackr.vercel.app/api?username=samrath2007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img src="https://github-readme-stats-codestackr.vercel.app/api>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath2007&show_icons=true&locale=en&layout=compact&count_private=true">
