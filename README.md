@@ -30,5 +30,4 @@
 <h2 align="center"> 😺 Github Stats </h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath2007&show_icons=true&locale=en&layout=compact&count_private=true&hide=prs">
-<figure><embed src="https://wakatime.com/share/@samrath2007/4c351a2c-1235-4fc2-8055-46d2b663360d.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@samrath2007/148c4d33-5145-443d-a8e1-a778694f078f.svg"></embed></figure>
