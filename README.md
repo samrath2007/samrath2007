@@ -32,6 +32,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=samrath2007&count_private=true&theme=monokai">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath2007&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&theme=radical">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrath2007">
 
 
 ### Favorite Databases
@@ -44,4 +45,4 @@
 
 1. I use vim
 2. Typescript is my favorite language
-3. I've been coding for almost 8 months now!
+3. I've been coding for almost 8 months!
