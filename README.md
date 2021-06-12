@@ -32,8 +32,7 @@
 </p>
 
 <h2 align="center"> 😺 Github Stats </h2>
-<h3 align="center">Contribution Streak</h2>
-<img src="https://gh-contribution-stats.herokuapp.com/?user=samrath2007" align="center">
+<img src="https://gh-contribution-stats.herokuapp.com/?user=samrath2007">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=samrath2007&count_private=true&theme=monokai">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath2007&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&theme=radical">
