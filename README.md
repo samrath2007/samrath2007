@@ -8,12 +8,12 @@
 
 
 ⚡️ I'm currently working on EnCluster<br><br>
-<p align="center">
+
 <a href="https://github.com/EnCluster">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnCluster&repo=EnClusterWeb">
  </a>
  <br>
-   </p>
+
 
 <p align="center">
    <h1>Contribution stats</h1>
