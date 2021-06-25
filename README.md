@@ -4,6 +4,7 @@
 *  Contributor to:<br>
     * [electric](http://github.com/electric-package-manager/electric)<br>
     * [covisource](http://github.com/covisource/covisource-api)<br>
+    * [hydralite](https://github.com/hydralite/hydralite)<br>
 
 
 
