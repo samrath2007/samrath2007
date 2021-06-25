@@ -10,6 +10,7 @@
 ⚡️ I'm currently working and looking to collaborate on [EnCluster](https://github.com/EnCluster/EnclusterWeb)<br><br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+</p>
 ![](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg)
 ![](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg)
 ![](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg)
@@ -26,7 +27,6 @@
 ![](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg)
 ![](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg)
 
-</p>
 
 <h2 align="center"> 😺 Github Stats </h2>
 <p align="center">
