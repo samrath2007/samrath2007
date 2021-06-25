@@ -6,20 +6,13 @@
     * [covisource](http://github.com/covisource/covisource-api)<br>
     * [hydralite](https://github.com/hydralite/hydralite)<br>
 
-
-
-⚡️ I'm currently working on EnCluster<br><br>
+⚡️ I'm currently working and looking to collaborate on [EnCluster](https://github.com/EnCluster/EnclusterWeb)<br><br>
 
 <a href="https://github.com/EnCluster">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnCluster&repo=EnClusterWeb">
  </a>
  <br>
 
-
-<p align="center">
-   <h1>Contribution stats</h1>
-   <img src="https://gh-contribution-stats.herokuapp.com/?user=samrath2007&theme=dark">
-   <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/samrath2008?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -45,14 +38,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=samrath2007&count_private=true&theme=monokai">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath2007&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&theme=radical">
 </p>
-
-### Favorite Databases
-1. Firebase
-2. MongoDb
-3. SQLite
-
-
-### Some Other Stuff You Should Know About Me
-
-1. I use vim
-2. Typescript is my favorite language
