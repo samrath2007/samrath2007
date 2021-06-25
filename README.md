@@ -1,6 +1,7 @@
 # Hi 👋, I'm Samrath!
 ✉️  How to reach me: samrath.2757@gmail.com<br>
 🌱  I'm 14!<br>
+🧑‍💻 Favorite language: Typescript
 *  Contributor to:<br>
     * [electric](http://github.com/electric-package-manager/electric)<br>
     * [covisource](http://github.com/covisource/covisource-api)<br>
