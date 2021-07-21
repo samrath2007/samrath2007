@@ -36,4 +36,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samrath2007&show_icons=true&locale=en&layout=compact&count_private=true&show_icons=true&theme=radical">
 </p>
 
-⚡️ My favourite editor is neovim. Here are my [dotfiles](https://github.com/samrath2007/ChadCocNvim).
+⚡️ My favourite editor is neovim. Here are my [dotfiles](https://github.com/samrath2007/kyoto.nvim).
