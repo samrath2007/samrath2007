@@ -1,4 +1,4 @@
-<img src="https://github.com/samrath2007/kyoto.nvim" />
+<img src="https://github.com/samrath2007/samrath2007/blob/main/header.png?raw=true />
 ✉️  How to reach me: samrath.2757@gmail.com<br>
 🌱  I'm 14!<br>
 🧑‍💻 Favorite language: Typescript
