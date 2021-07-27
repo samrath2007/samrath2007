@@ -7,6 +7,7 @@
     * [covisource](http://github.com/covisource/covisource-api)<br>
     * [hydralite](https://github.com/hydralite/hydralite)<br>
 
+⚡️ My favourite editor is neovim. Here are my [dotfiles](https://github.com/samrath2007/kyoto.nvim).
 ⚡️ I'm currently working and looking to collaborate on [kyoto.nvim](https://github.com/samrath2007/kyoto.nvim)<br><br>
 
 <h2 align="center"> 😺 Github Stats </h2>
@@ -15,4 +16,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=samrath2007&count_private=true&theme=monokai">
 </p>
 
-⚡️ My favourite editor is neovim. Here are my [dotfiles](https://github.com/samrath2007/kyoto.nvim).
+In my free time I code and lie to myself that customising neovim increases my productivity.
