@@ -1,4 +1,4 @@
-![image info](./pictures/header.png)
+![image info](./header.png)
 ✉️  How to reach me: samrath.2757@gmail.com<br>
 🌱  I'm 14!<br>
 🧑‍💻 Favorite language: Typescript
