@@ -12,7 +12,7 @@
 
 <h2 align="center"> 😺 Github Stats </h2>
 <p align="center">
-   <img src="https://gh-contribution-stats.herokuapp.com/?user=samrath2007">
+
 <img src="https://github-readme-stats.vercel.app/api?username=samrath2007&count_private=true&theme=monokai">
 </p>
 
