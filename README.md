@@ -7,8 +7,8 @@
     * [covisource](http://github.com/covisource/covisource-api)<br>
     * [hydralite](https://github.com/hydralite/hydralite)<br>
 
-⚡️ My favourite editor is neovim. Here are my [dotfiles](https://github.com/samrath2007/kyoto.nvim).
-⚡️ I'm currently working and looking to collaborate on [kyoto.nvim](https://github.com/samrath2007/kyoto.nvim)<br><br>
+⚡️ My favourite editor is neovim. Here are my [dotfiles](https://github.com/samrath2007/kyoto.nvim).<br>
+⚡️ I'm currently working and looking to collaborate on [InternNova](https://github.com/InternNova-Labs/web)<br><br>
 
 <h2 align="center"> 😺 Github Stats </h2>
 <p align="center">
